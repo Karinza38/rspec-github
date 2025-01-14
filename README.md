@@ -1,4 +1,4 @@
-# Rspec::Github
+ # Rspec::Github
 [![CI](https://github.com/Drieam/rspec-github/actions/workflows/ci.yml/badge.svg)](https://github.com/Drieam/rspec-github/actions/workflows/ci.yml)
 [![Gem Version](https://badge.fury.io/rb/rspec-github.svg)](https://badge.fury.io/rb/rspec-github)
 
